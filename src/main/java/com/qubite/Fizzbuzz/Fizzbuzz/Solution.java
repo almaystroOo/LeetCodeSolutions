@@ -1,4 +1,4 @@
-package com.qubite.RichestCustomer.Fizzbuzz;
+package com.qubite.Fizzbuzz.Fizzbuzz;
 
 import java.util.ArrayList;
 import java.util.List;
